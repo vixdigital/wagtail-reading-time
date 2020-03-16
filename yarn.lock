@@ -289,7 +289,7 @@
 
 "@babel/plugin-transform-computed-properties@7.0.0-beta.41":
   version "7.0.0-beta.41"
-  resolved "http://registry.npmjs.org/@babel/plugin-transform-computed-properties/-/plugin-transform-computed-properties-7.0.0-beta.41.tgz#16ec1978eba075aba847a9a5d9f469cba6dcc40a"
+  resolved "https://registry.npmjs.org/@babel/plugin-transform-computed-properties/-/plugin-transform-computed-properties-7.0.0-beta.41.tgz#16ec1978eba075aba847a9a5d9f469cba6dcc40a"
   dependencies:
     "@babel/helper-plugin-utils" "7.0.0-beta.41"
 
@@ -564,8 +564,8 @@ acorn-dynamic-import@^3.0.0:
     acorn "^5.0.0"
 
 acorn@^5.0.0:
-  version "5.5.3"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.5.3.tgz#f473dd47e0277a08e28e9bec5aeeb04751f0b8c9"
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
 
 ajv-keywords@^3.1.0:
   version "3.1.0"
